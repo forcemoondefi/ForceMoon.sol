@@ -1,1 +1,2 @@
 # ForceMoon.sol
+ForceMoon contract ForceMoon protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with amended transaction tax (4% reward tax to token holder & 1% burn tax). Simple tokenomics and elegant design and production of token information has catered to the overall success of the project. 100% community owned and driven - no rug is possible. #ForceMoon May the FOMO be with you to the MOON!
